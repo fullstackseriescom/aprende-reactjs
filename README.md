@@ -12,6 +12,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 3: Propiedades y aplicar estilos a los componentes:
   - https://www.groloop.com/react-js-propiedades/
   - https://repl.it/@vreaxe/Reactjs-Propiedades-y-aplicar-estilos-a-los-componentes
-- 4: Estado
-  - https://www.groloop.com/react-js-estado/
-  - https://repl.it/@vreaxe/Reactjs-Estado
+- 4: Estado y eventos
+  - https://www.groloop.com/react-js-estado-y-eventos/
+  - https://repl.it/@vreaxe/Reactjs-Estado-y-eventos
