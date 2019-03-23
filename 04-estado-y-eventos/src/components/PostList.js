@@ -24,7 +24,7 @@ class PostList extends React.Component {
     event.preventDefault();
     const lastPost = this.state.posts.slice(-1).pop();
     let newPost = {
-      id: lastPost.id + 1,
+      id: lastPost ? lastPost.id + 1 : 0,
       title: event.target.title.value,
       content: event.target.content.value
     };
