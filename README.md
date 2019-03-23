@@ -15,3 +15,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 4: Estado y eventos
   - https://www.groloop.com/react-js-estado-y-eventos/
   - https://repl.it/@vreaxe/Reactjs-Estado-y-eventos
+- 5: Ciclo de vida de un componente
+  - https://www.groloop.com/react-js-ciclo-de-vida-de-un-componente/
+  - https://repl.it/@vreaxe/Reactjs-Ciclo-de-vida-de-un-componente
