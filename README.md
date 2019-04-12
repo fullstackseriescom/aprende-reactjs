@@ -18,3 +18,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 5: Ciclo de vida de un componente
   - https://www.groloop.com/react-js-ciclo-de-vida-de-un-componente/
   - https://repl.it/@vreaxe/Reactjs-Ciclo-de-vida-de-un-componente
+- 6: Consumir una API
+  - https://www.groloop.com/react-js-consumir-una-api/
+  - https://repl.it/@vreaxe/Reactjs-Consumir-una-API
