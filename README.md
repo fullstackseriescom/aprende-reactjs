@@ -21,3 +21,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 6: Consumir una API
   - https://www.groloop.com/react-js-consumir-una-api/
   - https://repl.it/@vreaxe/Reactjs-Consumir-una-API
+- 7: Refs
+  - https://www.groloop.com/react-js-refs/
+  - https://repl.it/@vreaxe/Reactjs-Refs
