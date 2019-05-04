@@ -24,3 +24,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 7: Refs
   - https://www.groloop.com/react-js-refs/
   - https://repl.it/@vreaxe/Reactjs-Refs
+- 8: React Router
+  - https://www.groloop.com/react-js-react-router/
+  - https://repl.it/@vreaxe/Reactjs-React-Router
