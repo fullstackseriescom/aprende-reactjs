@@ -27,3 +27,6 @@ Este repo contiene el código de la serie sobre React.js de [Groloop](https://ww
 - 8: React Router
   - https://www.groloop.com/react-js-react-router/
   - https://repl.it/@vreaxe/Reactjs-React-Router
+- 9: React Router Transiciones
+  - https://www.groloop.com/react-js-transiciones-rutas-react-transition-group/
+  - https://repl.it/@vreaxe/Reactjs-React-Router-Transiciones
