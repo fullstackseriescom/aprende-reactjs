@@ -1,6 +1,6 @@
 # Aprende React.js
 
-Este repo contiene el código de la serie sobre React.js de [FullStack Series](https://fullstackseries.com/post_series/aprende-react-js/).
+Este repo contiene el código de la serie sobre React.js de [Fullstack Series](https://fullstackseries.com/post_series/aprende-react-js/).
 
 ## Lista de posts:
 
